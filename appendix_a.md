@@ -69,11 +69,11 @@
 ## Время: 
 Слово на русском | Слово на английском | Эмодзи | Примечания
 -----------------|---------------------|--------|-----------
-когда when
+когда | when ||
 до | before | :rewind: |
 после | after | :fast_forward: |
-долгое время a long time
-короткое время a short time
+долгое время | a long time | :hourglass: |
+короткое время | a short time | :hourglass_flowing_sand: |
 сейчас | now | :arrow_forward: |
 
 ## Пространство: 
